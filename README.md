@@ -2,7 +2,7 @@
 
 References to Revit 2019 to 2022 assemblies.
 
-* [Download Revit.References](https://github.com/ricaun/OnBox.References/archive/refs/tags/v1.0.zip)
+* [Download OnBox.References](https://github.com/ricaun/OnBox.References/releases)
 
 ## Vídeo
 
